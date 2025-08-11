@@ -7,7 +7,7 @@
 I live in Curitiba and I'm 19 years old. I'm a front-end developer studying Systems Analysis and Development at PUCPR, currently in my second semester. I'm looking for an opportunity to enter the job market and demonstrate my value in the field.
 
 ## 🛠 Skills
-Javascript, HTML, CSS, PHP, Node.js, Java, Spring Boot, C, C#, Python, MYSQL.
+Javascript, HTML, CSS, Java, Python, MYSQL.
 
 
 ## 🔗 Links
