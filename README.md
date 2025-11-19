@@ -20,7 +20,7 @@ Javascript, HTML, CSS, Java, Python, MYSQL.
 ## Other session in my profile
 👩‍💻 Searching oportunities in internship or dev jr.
 
-🧠 I am learning: Java, Next.js, JavaScript, Spring Boot, CSS, HTML, Python e MYSQL.
+🧠 I am learning: Java, Node.js, JavaScript, Spring Boot, CSS, HTML, Python e MYSQL.
 
 👯‍♀️ I seek to collaborate proactively and communicate.
 
