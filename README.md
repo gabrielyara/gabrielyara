@@ -4,10 +4,10 @@
 
 ## 🚀 About me
 
-I live in Curitiba and I'm 19 years old. I'm a front-end developer studying Systems Analysis and Development at PUCPR, currently in my second semester. I'm looking for an opportunity to enter the job market and demonstrate my value in the field.
+I live in Curitiba and I'm 19 years old. I'm a backend developer studying Systems Analysis and Development at PUCPR, currently in my second semester. I'm looking for an opportunity to enter the job market and demonstrate my value in the field.
 
 ## 🛠 Skills
-Javascript, React, Next.js, HTML, CSS e TypeScript
+Javascript, Java, Python, HTML5 e CSS.
 
 
 ## 🔗 Links
@@ -18,13 +18,13 @@ Javascript, React, Next.js, HTML, CSS e TypeScript
 
 
 ## Other session in my profile
-👩‍💻 Searching oportunities in internship or dev jr.
+👩‍💻 Searching oportunities in internship or dev jr;
 
-🧠 I am learning: Next.js, JavaScript, CSS e HTML.
+🧠 I am learning: Java, Node.js, Spring Boot and JavaScript;
 
-👯‍♀️ I seek to collaborate proactively and communicate.
+👯‍♀️ I seek to collaborate proactively and communicate;
 
-🤔 I'm looking for help with Next.Js and React.
+🤔 I'm looking for help with Node.js and Spring Boot.
 
 
 📫 How to contact me in my email.
