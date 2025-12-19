@@ -4,7 +4,7 @@
 
 ## 🚀 About me
 
-I live in Curitiba and I'm 19 years old. I'm a backend developer studying Systems Analysis and Development at PUCPR, currently in my second semester. I'm looking for an opportunity to enter the job market and demonstrate my value in the field.
+I live in Curitiba and I'm 20 years old. I'm a backend developer studying Systems Analysis and Development at PUCPR, currently in my second semester. I'm looking for an opportunity to enter the job market and demonstrate my value in the field.
 
 ## 🛠 Skills
 Javascript, Java, Python, HTML5 e CSS.
